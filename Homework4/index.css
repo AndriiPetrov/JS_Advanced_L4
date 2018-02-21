@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+
+}
+div{
+    height: 100px;
+    width: 100px;
+    top: 300px;
+    left: 300px;
+    position: absolute;
+    background-color: #145854;
+}
